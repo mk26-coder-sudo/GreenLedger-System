@@ -21,11 +21,12 @@ GreenLedger-System is a smart environmental optimization platform that identifie
 
 ## 📌 Dashboard Preview
 
-> Add dashboard screenshot here
+
 
 ```md
-![Dashboard](./assets/dashboard.png)
+![Dashboard](./assets/dashboard1.png)
 ```
+![Dashboard](./assets/dashboard2.png)
 
 ---
 
