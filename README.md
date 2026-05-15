@@ -19,12 +19,11 @@ GreenLedger-System is a smart environmental optimization platform that identifie
 
 # 🖼️ Project Preview
 
-# 🖼️ Project Preview
-
 ## Dashboard
 
 <p align="center">
-  <img src="./assets/dashboard1.png" width="900"/>
+  <img src="./assets/dashboard1.png.png" width="900"/>
+  <img src="./assets/dashboard2.png.png" width="900"/>
 </p>
 
 ---
@@ -32,7 +31,9 @@ GreenLedger-System is a smart environmental optimization platform that identifie
 ## Zone Analysis
 
 <p align="center">
-  <img src="./assets/analysis1.png" width="900"/>
+  <img src="./assets/analysis.png.png" width="900"/>
+  <img src="./assets/analysis1.png.png" width="900"/>
+  <img src="./assets/analysis2.png.png" width="900"/>
 </p>
 
 ---
@@ -40,7 +41,9 @@ GreenLedger-System is a smart environmental optimization platform that identifie
 ## Optimization Output
 
 <p align="center">
-  <img src="./assets/opti1.png" width="900"/>
+  <img src="./assets/opti1.png.png" width="900"/>
+  <img src="./assets/opti2.png.png" width="900"/>
+  <img src="./assets/opti3.png.png" width="900"/>  
 </p>
 
 # 🎥 Demo Video
