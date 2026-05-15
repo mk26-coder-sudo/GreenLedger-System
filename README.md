@@ -50,7 +50,7 @@ GreenLedger-System is a smart environmental optimization platform that identifie
 
 
 ```md
-https://drive.google.com/file/d/1szD0G1-HC69FUWRgY-ykuyLorP3WSBZX/view?usp=sharing
+[ Watch Demo Video](https://drive.google.com/file/d/1szD0G1-HC69FUWRgY-ykuyLorP3WSBZX/view?usp=sharing)
 ```
 
 ---
