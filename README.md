@@ -46,12 +46,15 @@ GreenLedger-System is a smart environmental optimization platform that identifie
   <img src="./assets/opti3.png.png" width="900"/>  
 </p>
 
+---
+
 # 🎥 Demo Video
 
+<p align="center">
+  
+[▶️ Watch Demo Video](https://drive.google.com/file/d/1szD0G1-HC69FUWRgY-ykuyLorP3WSBZX/view?usp=sharing)
 
-```md
-[Watch Demo Video](https://drive.google.com/file/d/1szD0G1-HC69FUWRgY-ykuyLorP3WSBZX/view?usp=sharing)
-```
+</p>
 
 ---
 
